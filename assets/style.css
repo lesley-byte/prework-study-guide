@@ -37,8 +37,9 @@ p {
 .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid gray;
-    box-shadow: 5px 10px #888888;
+    border: 5px #2f4f4f;
+    box-shadow: 5px 10px #778899;
+    
 }
 
     
