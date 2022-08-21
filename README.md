@@ -35,4 +35,5 @@ If you created an application or package and would like other developers to cont
 
 ## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+View website from a cellphone to see if it works:
+https://lesley-byte.github.io/prework-study-guide/
