@@ -27,11 +27,11 @@ Badges aren't necessary, but they demonstrate street cred. Badges let other deve
 
 ## Features
 
--HTML
--CSS
--JavaScript in the console
--A list of things to learn/study
--The project itself is a learning opportunity
+- HTML
+- CSS
+- JavaScript in the console
+- A list of things to learn/study
+- The project itself is a learning opportunity
 
 ## How to Contribute
 
